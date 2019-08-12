@@ -9,3 +9,8 @@ p{
     font-size: 30px;
     color:yellowgreen;
 }
+div{
+    width: 200px;
+    height: 200px;
+    background-color: #0ff;
+}
